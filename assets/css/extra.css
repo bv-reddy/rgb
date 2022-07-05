@@ -1,0 +1,67 @@
+.rbg-rr {
+  text-align: center;
+  padding: 50px 0 25px 0;
+  color: #095da3;
+  text-decoration: underline #00a651;
+}
+ul li {
+  padding: 10px 0;
+}
+.services-btn {
+  background-color: #00a651;
+  color: #fff;
+  border-radius: 10px;
+  float: right;
+}
+.jan25th{
+  padding: 10px;
+}
+.menu-list li{
+padding: 0px;
+}
+.events-heading{
+  text-align: center;
+  color:#00a651;
+  margin-bottom: 15px;
+}
+.events-h4 {
+  margin-bottom: 15px;
+  color:#00a651;
+}
+
+.slide-text{
+  color:#00a651;
+  font-weight: 700;
+}
+
+/* Services */
+
+/* .services {
+  margin-top: 140px;
+} */
+
+.service-item img {
+  /* width: 100%; */
+  overflow: hidden;
+  /* height: 180px; */
+}
+
+.service-item .down-content {
+  background-color: #f7f7f7;
+  padding: 30px;
+}
+
+.service-item .down-content h4 {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.25px;
+  margin-bottom: 15px;
+}
+
+.service-item .down-content p {
+  margin-bottom: 20px;
+}
+
+.service-item {
+  padding-bottom: 30px;
+}
